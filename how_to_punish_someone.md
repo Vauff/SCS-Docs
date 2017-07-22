@@ -2,7 +2,7 @@
 
 ## Commands
 
-If you've only warned someone then just skip to the Documenting secion. But if you need to ban someone you'll need to use either the /tempban or /ban command depending on the situation and severity of the offence (See [Severity of Offences](https://github.com/Vauff/SCS-Docs/blob/master/severity_of_offences.md). The syntax to the commands are as follows.
+If you've only warned someone then just skip to the Documenting secion. But if you need to ban someone you'll need to use either the /tempban or /ban command depending on the situation and severity of the offence (See [Severity of Offences](https://github.com/Vauff/SCS-Docs/blob/master/severity_of_offences.md)). The syntax to the commands are as follows.
 
 - /tempban \<user> \<duration> \<reason>
 - /ban \<user> \<reason>
