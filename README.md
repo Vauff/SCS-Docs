@@ -5,5 +5,6 @@ Repository for The Official SecurityCraft Server's staff documentation
 - [Staff Guidelines](https://github.com/Vauff/SCS-Docs/blob/master/staff_guidelines.md)
 - [Rules](https://github.com/Vauff/SCS-Docs/blob/master/rules.md)
 - [How to Punish Someone](https://github.com/Vauff/SCS-Docs/blob/master/how_to_punish_someone.md)
+- [Severity of Offences](https://github.com/Vauff/SCS-Docs/blob/master/severity_of_offences.md)
 - [Creating Protections](https://github.com/Vauff/SCS-Docs/blob/master/creating_protections.md)
 - [Donator Perks](https://github.com/Vauff/SCS-Docs/blob/master/donator_perks.md)
